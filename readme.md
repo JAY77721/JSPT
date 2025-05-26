@@ -46,7 +46,7 @@
 ## 环境要求
 
 * **Java 17 版本**
-* **Apache Tomcat** 
+* **Apache Tomcat 11** 
 * **MySQL 5.7 或以上版本**
 
 ## 安装与配置
